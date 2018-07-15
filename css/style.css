@@ -34,7 +34,9 @@ h2 {
   border-width: 4pt;
 }
 
-
+.clearfix {
+  
+}
 
 a:link {
   border:solid;
