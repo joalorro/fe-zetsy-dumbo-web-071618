@@ -41,13 +41,13 @@ h2 {
   line-height:0;
 }
 
-a:link {
+a.press:link {
   border:solid;
   border-color: rgb(203,204,203);
   border-width: 4pt;
 }
 
-a:hover {
+a.press:hover {
   border:solid;
   border-color: rgb(113,128,123);
   border-width: 4pt;
