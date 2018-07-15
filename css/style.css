@@ -17,6 +17,11 @@ body {
 	padding: 0 45px 20px;
 }
 
+footer {
+  font-size: 12pt;
+  text-align: right;
+}
+
 /* Write all remaining styles here */
 
 h1 {
