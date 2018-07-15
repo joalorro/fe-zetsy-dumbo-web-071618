@@ -51,13 +51,13 @@ p {
   line-height:0;
 }
 
-#press a:link {
+#press a:link img{
   border:solid;
   border-color: rgb(203,204,203);
   border-width: 4pt;
 }
 
-#press a:hover {
+#press a:hover img{
   border:solid;
   border-color: rgb(113,128,123);
   border-width: 4pt;
