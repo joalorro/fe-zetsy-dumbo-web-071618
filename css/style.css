@@ -65,9 +65,3 @@ p {
   border-color: rgb(113,128,123);
   border-width: 4pt;
 }
-
-#press a:visited img{
-  border:solid;
-  border-color: rgb(203,204,203);
-  border-width: 4pt;
-}
