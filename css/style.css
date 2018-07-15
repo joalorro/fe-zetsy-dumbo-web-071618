@@ -27,10 +27,10 @@ h1 {
   color: rgb(154,172,166);
   border: solid;
   border-color: rgb(154,172,166);
-  border-width: 2pt;
+  border-width: 4pt;
 }
 
 .press {
   border-color: rgb(203,204,203);
-  border-width: 2pt;
+  border-width: 4pt;
 }
