@@ -49,11 +49,8 @@ p {
   border-width: 4pt;
 }
 
-.clearfix {
-  content:".";
-  clear:both;
-  height:0;
-  line-height:0;
+.learn {
+  text-decoration: none;
 }
 
 #press a:link img{
