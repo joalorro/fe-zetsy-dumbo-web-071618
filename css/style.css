@@ -18,3 +18,19 @@ body {
 }
 
 /* Write all remaining styles here */
+
+h1 {
+  color: rgb(154,172,166);
+}
+
+.necklace {
+  color: rgb(154,172,166);
+  border: solid;
+  border-color: rgb(154,172,166);
+  border-width: 2pt;
+}
+
+.press {
+  border-color: rgb(203,204,203);
+  border-width: 2pt;
+}
