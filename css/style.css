@@ -34,7 +34,7 @@ h2 {
   border-width: 4pt;
 }
 
-a.press {
+a:link {
   border-color: rgb(203,204,203);
   border-width: 4pt;
 }
