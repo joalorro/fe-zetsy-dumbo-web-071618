@@ -41,6 +41,7 @@ a:link {
 }
 
 a:hover {
+  border:solid;
   border-color: rgb(113,128,123);
   border-width: 4pt;
 }
