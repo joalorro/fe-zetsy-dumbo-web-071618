@@ -35,7 +35,10 @@ h2 {
 }
 
 .clearfix {
+  content:".";
   
+  height:0;
+  line-height:0;
 }
 
 a:link {
