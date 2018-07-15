@@ -35,6 +35,11 @@ h2 {
 }
 
 a:link {
+  border:solid;
   border-color: rgb(203,204,203);
   border-width: 4pt;
+}
+
+a:hover {
+  border
 }
